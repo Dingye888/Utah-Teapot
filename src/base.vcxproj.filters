@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\application.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\cgra\cgra_geometry.cpp">
+      <Filter>src\cgra</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\cgra\cgra_gui.cpp">
+      <Filter>src\cgra</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\cgra\cgra_mesh.cpp">
+      <Filter>src\cgra</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\cgra\cgra_shader.cpp">
+      <Filter>src\cgra</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\application.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\basic_model.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\bounding_box.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\opengl.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\cgra\cgra_geometry.hpp">
+      <Filter>src\cgra</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\cgra\cgra_gui.hpp">
+      <Filter>src\cgra</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\cgra\cgra_image.hpp">
+      <Filter>src\cgra</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\cgra\cgra_mesh.hpp">
+      <Filter>src\cgra</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\cgra\cgra_shader.hpp">
+      <Filter>src\cgra</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\cgra\cgra_wavefront.hpp">
+      <Filter>src\cgra</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\CMakeLists.txt">
+      <Filter>src</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\wangding1\Desktop\CGRA251_Framework_A2\base\work\src\cgra\CMakeLists.txt">
+      <Filter>src\cgra</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{A7560DEF-A1B2-31D3-9C95-00C06E2419DD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\cgra">
+      <UniqueIdentifier>{4894002B-B385-3F2D-B3DF-69F15C665567}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

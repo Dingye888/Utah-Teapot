@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CheckCSourceCompiles.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/FindDoxygen.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/FindOpenGL.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/FindThreads.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/wangding1/Desktop/CGRA251_Framework_A2/base/work/ext/glfw/CMakeLists.txt
+C:/Users/wangding1/Desktop/CGRA251_Framework_A2/base/work/ext/glfw/cmake_uninstall.cmake.in
+C:/Users/wangding1/Desktop/CGRA251_Framework_A2/base/work/ext/glfw/docs/Doxyfile.in
+C:/Users/wangding1/Desktop/CGRA251_Framework_A2/base/work/ext/glfw/src/glfw3.pc.in
+C:/Users/wangding1/Desktop/CGRA251_Framework_A2/base/work/ext/glfw/src/glfw3Config.cmake.in
+C:/Users/wangding1/Desktop/CGRA251_Framework_A2/base/work/ext/glfw/src/glfw_config.h.in
