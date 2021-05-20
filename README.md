@@ -9,4 +9,4 @@ This C++ project was made using cmake,ImGui and openGL in Visual studio 2019. Al
 - Checkerboard texture (multiplyed the texture color with phone color) other ways cause the lighting to look weird
 - Bounding box for the teapots (the bounding box helper method had some problums. it would not draw horizontal lines, so i had to modifiy it) 
 
-![Utah-teapot](screen-captures/Box_and_texture.png)
+![Utah-teapot](screen_captures/Box_and_texture.PNG)
